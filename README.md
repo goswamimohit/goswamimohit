@@ -8,3 +8,5 @@
 goswamimohit/goswamimohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Project 1 : [Pima Indian Dibetics](https://github.com/goswamimohit/PIMA-INDIAN-Diabetic)
