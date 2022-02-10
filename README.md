@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
 - 💞️ I’m looking to collaborate on data science project specifically related to biology.
 - 📫 How to reach me by my email id : 
-
+Personal Site - https://mohit-portifolio.netlify.app/
 Project 1 : PIMA-INDIAN-Diabetic
 
 <!---
