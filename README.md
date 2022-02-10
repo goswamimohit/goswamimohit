@@ -2,8 +2,8 @@
 - 👀 I’m interested in data science ,drugs , biology , anthropology and sociology.
 - 🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
 - 💞️ I’m looking to collaborate on data science project specifically related to biology.
-- 📫 How to reach me by my email id : 
-Personal Site - https://mohit-portifolio.netlify.app/
+- 📫 How to reach me by me :  https://mohit-portifolio.netlify.app/
+- 
 Project 1 : PIMA-INDIAN-Diabetic
 
 <!---
