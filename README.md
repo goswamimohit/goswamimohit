@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@e3d6a950-7e61-4789-8e05-e6761be4af1c)](https://github.com/goswamimohit/github-readme-stats)
 
-[![Visits Badge](https://badges.pufler.dev/visits/goswamimohit/README.md)](https://badges.pufler.dev)
+
 ![Visits Badge](https://badges.pufler.dev/visits/goswamimohit/git-badges)](https://badges.pufler.dev)
