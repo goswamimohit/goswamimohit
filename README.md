@@ -1,4 +1,8 @@
+# Hola, I'm Mohit
+-----------------------------------------------------
 ![Visits Badge](https://badges.pufler.dev/visits/goswamimohit/git-badges)
+[![Updated Badge](https://badges.pufler.dev/updated/goswamimohit/git-badges)](https://badges.pufler.dev)
+
 
 
 - 👋 Hi, I’m @goswamimohit 
@@ -6,7 +10,7 @@
 - 🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
 - 💞️ I’m looking to collaborate on data science project specifically related to biology.
 - 📫 How to reach me by me :  https://mohit-portifolio.netlify.app/
-- 
+
 Project 1 : PIMA-INDIAN-Diabetic
 
 <!---
