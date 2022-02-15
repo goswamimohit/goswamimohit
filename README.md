@@ -18,10 +18,3 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goswamimohit&layout=compact)](https://github.com/goswamimohit/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@e3d6a950-7e61-4789-8e05-e6761be4af1c)](https://github.com/goswamimohit/github-readme-stats)
-
-<a href="https://github.com/goswamimohit/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goswamimohit&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/goswamimohit/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goswamimohit&repo=convoychat" />
-</a>
