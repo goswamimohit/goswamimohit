@@ -3,6 +3,9 @@
 <h1 align="center">Hola, I'm <a href="https://mohit-portifolio.netlify.app/">Mohit</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goswamimohit&label=Views&color=blue&style=for-the-badge" alt="goswamimohit" /> </p>
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuffs:
 
 - 👋 Hi, I’m @goswamimohit 
 - 👀 I’m interested in data science ,drugs , biology , anthropology and sociology.
@@ -10,6 +13,8 @@
 - 💞️ I’m looking to collaborate on data science project specifically related to biology.
 - 📫 How to reach me by me :   [Linked In](https://www.linkedin.com/in/mohitg0swami/), [GMail](mailto:mohit165@gmail.com)
 
+ 
+                                                               
                                                                Languages and Tools:
 
 <p align="center"><img height="30" width="30" alt="python" src="https://user-images.githubusercontent.com/28840761/89373851-5696c900-d71c-11ea-9fad-09e52584c77b.png" />&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="git" src="https://user-images.githubusercontent.com/28840761/89373842-54cd0580-d71c-11ea-9643-e145b5c4e727.png" 
