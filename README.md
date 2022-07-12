@@ -15,7 +15,7 @@
 
  
                                                                
-                                                               Languages and Tools:
+                                                               🔭 Languages and Tools:
 
 <p align="center"><img height="30" width="30" alt="python" src="https://user-images.githubusercontent.com/28840761/89373851-5696c900-d71c-11ea-9fad-09e52584c77b.png" />&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="git" src="https://user-images.githubusercontent.com/28840761/89373842-54cd0580-d71c-11ea-9643-e145b5c4e727.png" 
 />&nbsp;&nbsp;&nbsp;</p>
