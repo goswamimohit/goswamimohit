@@ -7,11 +7,43 @@
 
 ### Talking about Personal Stuffs:
 
-- 👋 Hi, I’m @goswamimohit 
-- 👀 I’m interested in data science ,drugs , biology , anthropology and sociology.
-- 🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
-- 💞️ I’m looking to collaborate on data science project specifically related to biology.
-- 📫 How to reach me by me :   [Linked In](https://www.linkedin.com/in/mohitg0swami/), [GMail](mailto:mohit165@gmail.com)
+👋 Hey there! I'm [Mohit Goswami], a passionate Data Scientist and ML Engineer with a keen interest in the fascinating realms of Natural Language Processing (NLP) and Biology. Here's a quick snapshot of my journey:
+
+🚀 **Professional Experience:**
+   - Data Scientist at , a dynamic startup in Hyderabad, India.
+
+💡 **Areas of Expertise:**
+   - Machine Learning
+   - Natural Language Processing (NLP)
+   - Deep learning
+   - Data Analysis
+   - Bioinformatics
+
+🌱 **Current Focus:**
+   - Exploring the intersection of NLP and Biology to unravel exciting insights.
+
+🔧 **Tech Stack:**
+   - Python, TensorFlow, PyTorch
+   - SQL, NoSQL
+   - Git, GitHub
+   - Huggingface
+
+
+📚 **Continuous Learner:**
+   - Enthusiastically staying updated on the latest advancements in AI, ML, and Biology.
+
+🤝 **Open to Collaborate:**
+   - Passionate about connecting with like-minded professionals and collaborating on impactful projects.
+
+🎓 **Education:**
+   - [M.Sc] in [Molecular Nedicine]
+
+📈 **Let's Connect:**
+   - LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/mohithgoswami/)]
+
+
+Excited to embark on this data-driven journey, unraveling the secrets of NLP and Biology! 🌐✨
+
 
  
                                                                
