@@ -7,7 +7,7 @@
 
 ### Talking about Personal Stuffs:
 
-👋 Hey there! I'm [Mohit Goswami], a passionate Data Scientist and ML Engineer with a keen interest in the fascinating realms of Natural Language Processing (NLP) and Biology. Here's a quick snapshot of my journey:
+👋 Hey there! I'm *Mohit Goswami, a passionate Data Scientist and ML Engineer with a keen interest in the fascinating realms of Natural Language Processing (NLP) and Biology. Here's a quick snapshot of my journey:
 
 🚀 **Professional Experience:**
    - Data Scientist at , a dynamic startup in Hyderabad, India.
@@ -39,7 +39,7 @@
    - [M.Sc] in [Molecular Nedicine]
 
 📈 **Let's Connect:**
-   - LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/mohithgoswami/)]
+   - LinkedIn: [[Mohit Goswami](https://www.linkedin.com/in/mohithgoswami/)]
 
 
 Excited to embark on this data-driven journey, unraveling the secrets of NLP and Biology! 🌐✨
